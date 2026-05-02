@@ -1,54 +1,34 @@
-# 📊 E-commerce Sales Dashboard (Power BI)
+# E-commerce Sales Dashboard (Retail Domain) | Power BI  
 
-## 🔍 Overview  
-This project analyzes e-commerce sales data to understand overall business performance, customer behavior, and product trends.
-
----
-
-## 📈 Dashboard Pages  
-
-### Executive Overview  
-- Revenue, Orders, Customers, Average Order Value  
-- Monthly performance trends  
-
-### Sales Analysis  
-- Order trends and delivery performance  
-- Revenue and order patterns  
-
-### Product Analysis  
-- Top product categories  
-- Revenue contribution by category  
-
-### Customer Analysis  
-- Customer behavior and contribution  
-- Top cities and customer insights  
-
----
+## 📊 Project Overview  
+This project focuses on analyzing e-commerce sales data to identify key trends, top-performing categories, and revenue patterns. The goal is to provide actionable insights to support business decision-making.
 
 ## 🛠 Tools Used  
 - Power BI  
-- Power Query  
-- DAX  
+- Power Query (Data Cleaning & Transformation)  
+- DAX (Data Modelling & KPIs)  
 
----
+## 📈 Key Insights  
+- Identified top-performing product categories contributing maximum revenue  
+- Analyzed monthly and regional sales trends  
+- Detected high-value customer segments and purchasing patterns  
+- Highlighted areas for improving sales performance  
 
-## 📊 Key Insights  
-- Revenue shows steady growth over time  
-- A few product categories contribute most of the revenue  
-- Customer revenue is concentrated among top customers  
-- High delivery rate indicates efficient operations  
+## 📷 Dashboard Preview  
+### Executive Overview  
+![Overview](Exec_overview.png)
 
----
+### Sales Analysis  
+![Sales](Sales_Analysis.png)
 
-## 📸 Dashboard Preview  
-### Executive Overview
-![Executive Overview](exec-overview.png)
+### Customer Analysis  
+![Customer](Customer_Analysis.png)
 
-### Sales Analysis
-![Sales Analysis](sales-analysis.png)
+### Product Analysis  
+![Product](Product_Analysis.png)
 
-### Product Analysis
-![Product Analysis](product-analysis.png)
+## 🎥 Project Demo  
+[Watch Demo](https://bit.ly/49icBIb)
 
-### Customer Analysis
-![Customer Analysis](customer-analysis.png)
+## 📁 Dataset  
+Dataset sourced from Kaggle and used for data analysis and dashboard development
